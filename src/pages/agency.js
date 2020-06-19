@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import Sticky from 'react-stickynode';
-import { ThemeProvider } from 'styled-components';
 import { Modal } from '@redq/reuse-modal';
+import { ThemeProvider } from 'styled-components';
 import { agencyTheme } from 'common/src/theme/agency';
 import { ResetCSS } from 'common/src/assets/css/style';
 import {
